@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-oyararbas
 
 Running at: <https://jpa03-oyararbas.dokku-09.cs.ucsb.edu/>
 
