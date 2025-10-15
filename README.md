@@ -1,6 +1,6 @@
 # jpa03-oyararbas
 
-Running at: <https://jpa03-oyararbas.dokku-09.cs.ucsb.edu/>
+Running at: <https://jpa03-oyararbas.dokku-09.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
